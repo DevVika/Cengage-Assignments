@@ -1,4 +1,13 @@
+"""
 
+Author: Viktoriya Kramar
+Program: kramarPayroll.py
+Last Date Modified: 7/27/2025
+
+This is a Python program thatopens a file and prints hours,	overtime, and wages	
+paid to	each employee for the given	period.
+
+"""
 
 # Hardcode file name
 f1 = open("C:\\Users\\vikac\\Downloads\\employeeData.txt", "r")

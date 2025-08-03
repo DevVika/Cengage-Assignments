@@ -1,4 +1,14 @@
-# 
+"""
+
+Author: Viktoriya Kramar
+Program: kramarGrades.py
+Last Date Modified: 8/3/2025
+
+This program sorts the names of people in alphabetical order and then displays them
+along with taking their grades to compute the class average, highest grade, and lowest grade.
+
+"""
+
 f1 = open("C:\\Users\\vikac\\AppData\\Local\\Programs\\Python\\Python313\\grades.txt", 'r')
 
 names = []

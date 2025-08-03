@@ -1,10 +1,12 @@
 """
+
 Program: kramarTickets.py
 Author: Viktoriya
 Last date modified: 7/17/25
 
 This program calculates the total price of Vikings tickets based on the tier
 and the number of tickets requested. 
+
 """
 
 # Welcome message
