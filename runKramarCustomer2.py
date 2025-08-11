@@ -1,4 +1,14 @@
-from kramarCustomer2 import KramarCustomer
+from kramarCustomer import KramarCustomer
+
+"""
+    Program: runKramarCustomer.py
+    Author: Viktoriya Kramar
+    Last modified: 8/11/2025
+
+    This program defines the functions, a dictionary, and a tuple in order
+    to loop through the files and gather customer information
+    
+"""
 
 def readCustomers():
     # Open file and read
